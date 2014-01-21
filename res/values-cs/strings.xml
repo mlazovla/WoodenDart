@@ -3,4 +3,5 @@
     <string name="player_1">Hráč 1</string>
     <string name="player_2">Hráč 2</string>
     <string name="undo">Zpět</string>
+    <string name="sum">Součet</string>
 </resources>
