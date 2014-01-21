@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="player_1">Hráč 1</string>
+    <string name="player_2">Hráč 2</string>
+    <string name="undo">Zpět</string>
+</resources>
