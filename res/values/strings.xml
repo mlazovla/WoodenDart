@@ -6,7 +6,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="player_1">Player 1</string>
     <string name="player_2">Player 2</string>
-    <string name="undo">Undo</string>
+    <string name="undo">Undo / RESET</string>
     <string name="sum">Sum</string>
 
 </resources>
