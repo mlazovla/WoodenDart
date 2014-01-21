@@ -15,7 +15,8 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:text="@string/player_1"
-        android:textAppearance="?android:attr/textAppearanceLarge" />
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#C00" />
 
     <TextView
         android:id="@+id/textView2"
@@ -24,7 +25,8 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
         android:text="@string/player_2"
-        android:textAppearance="?android:attr/textAppearanceLarge" />
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#0A0" />
 
     <TextView
         android:id="@+id/tmpScoreLine"
@@ -261,6 +263,15 @@
         android:layout_above="@+id/tmpScoreSum"
         android:layout_centerHorizontal="true"
         android:text="@string/sum"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/add"
         android:textAppearance="?android:attr/textAppearanceSmall" />
 
 </RelativeLayout>

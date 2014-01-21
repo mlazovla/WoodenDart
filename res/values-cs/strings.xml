@@ -4,4 +4,5 @@
     <string name="player_2">Hráč 2</string>
     <string name="undo">Zpět / RESET</string>
     <string name="sum">Součet</string>
+    <string name="help">Nápověda</string>
 </resources>

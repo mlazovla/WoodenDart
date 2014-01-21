@@ -8,5 +8,7 @@
     <string name="player_2">Player 2</string>
     <string name="undo">Undo / RESET</string>
     <string name="sum">Sum</string>
+    <string name="add">add</string>
+    <string name="help">Help</string>
 
 </resources>
